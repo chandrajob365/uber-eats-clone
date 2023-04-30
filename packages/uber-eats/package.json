@@ -6,20 +6,26 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tailwindcss/forms": "^0.5.3",
     "date-fns": "^2.29.3",
     "gray-matter": "^4.0.3",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.9",
     "remark": "^14.0.2",
     "remark-html": "^15.0.1",
-    "save-dev": "^0.0.1-security"
+    "save-dev": "^0.0.1-security",
+    "tailwindcss": "^3.3.2"
   },
   "devDependencies": {
     "@types/jest": "^27.5.2",
     "@types/node": "^18.16.3",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.1",
+    "autoprefixer": "^10.4.14",
+    "next-images": "^1.8.5",
+    "postcss": "^8.4.23",
     "typescript": "^5.0.4"
   }
 }

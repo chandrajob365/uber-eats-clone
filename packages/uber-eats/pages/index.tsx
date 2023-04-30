@@ -7,6 +7,7 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>Hello World</title>
       </Head>
+      <h1> It works </h1>
     </div>
   )
 }
