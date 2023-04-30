@@ -1,0 +1,18 @@
+1. next js ssr (End user)
+2. graphql Gateway (Nest JS)
+3. Auth Service 
+4. Apollo graphql Fedreation
+
+
+Looking at Next js app
+ - typescript + react
+ - talwind
+ - graphql client Apollo
+ - react form hooks
+ - ssr
+ - Login/Signup (in house)
+ - Login/Signup/FPassword/RPassword/RToken (Micro service / Nest JS/ Grpahql)
+ - 
+
+
+
